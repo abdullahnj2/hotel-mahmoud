@@ -6,4 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "hotel-booking-db"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_id = "45f883cd-76d0-4932-9086-80655e2dba0b"
